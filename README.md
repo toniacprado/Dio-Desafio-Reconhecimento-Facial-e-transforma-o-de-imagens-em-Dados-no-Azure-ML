@@ -60,6 +60,10 @@ Então uma sequencia de passos é necessária:
 
 ![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/db5172c3-9832-4d5e-a4be-fedf47f36d20)
 
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/b580e485-7294-42c8-80b3-f73d0b5b5481)
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/f8bd0638-b615-4b7d-b95c-b6332f30b35e)
+
 ![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/aa7e1ade-2a4e-4401-9390-b7a322aa40e6)
 
 ![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/409557b8-6dda-44e4-9dbe-10aeee11e652)
