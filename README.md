@@ -15,6 +15,17 @@ Este repositório responde ao desafio no lab  **Reconhecimento Facial e transfor
 
 ## Objetivo 🎯
 Demonstrar a pratica da criação de reconhecimento facial, identificação de dados em documentos e também o reconhecimento de elementos em imagens. 
-Foram praticados as habilidades na aplicação de tecnologias de reconhecimento, proporcionando uma compreensão mais profunda e prática desses conceitos essenciais.
+Foram praticados as habilidades na aplicação de tecnologias de reconhecimento do Azure AI VISION, proporcionando uma compreensão mais profunda e prática desses conceitos essenciais.
 
 ### Azure Machine Learning  /  Visão Computacional .
+
+Os elementos testados fazem parte da suite de habilidades de visão do Azure Vision Studio, que por sua vez é parte dos serviços de inteligência artificial do Azure AI services. 
+Então uma sequencia de passos é necessária:
+
+1o. Ter uma conta na Azure. Acesso o  Azure portal no link https://portal.azure.com
+
+2o. Ter uma assinatura válida (signature). É possível testar por 1 mês com 200 dólares de crédito.
+
+3o. Criar um recurso "Azure AI services" dentro de um Grupo de Recursos
+
+4o. Acessar o Vision Studio no link https://portal.vision.cognitive.azure.com/
