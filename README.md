@@ -10,8 +10,8 @@ Parte de um conjunto de labs do Bootcamp Microsoft Azure AI Fundamentals da [Dig
 
 Este repositório responde ao desafio no lab  **Reconhecimento Facial e transformação de imagens em Dados no Azure ML** 
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/trabalhando-com-machine-learning-na-pratica-no-azure-ml/learning/feb31f95-6d53-4317-8519-b455fee120fa) 
+[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/trabalhando-com-machine-learning-na-pratica-no-azure-ml/learning/feb31f95-6d53-4317-8519-b455fee120fa)
 
 ## Objetivo 🎯
 Demonstrar a pratica da criação de reconhecimento facial, identificação de dados em documentos e também o reconhecimento de elementos em imagens. 
