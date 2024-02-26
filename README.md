@@ -37,3 +37,32 @@ Então uma sequencia de passos é necessária:
 [Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
 
 [Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
+
+---
+
+## RESULTADOS
+
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/2c0c8150-5617-47ca-87ec-20e96f16f52d)
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/dad9a797-f6dc-422e-a6a7-ccd7b66c2deb)
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/c4ac088b-c6cc-4ba7-9cbb-6156445f7017)
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/13d72f27-572b-4326-8959-cb2017da0c00)
+
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/b7f6916c-3004-4540-aacd-74711fb76bc0)
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/3f2788cb-66bd-4b8e-9fc3-4eba9c5e8e3e)
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/9c8f80cf-5687-4077-8337-edc7273ba542)
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/db5172c3-9832-4d5e-a4be-fedf47f36d20)
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/aa7e1ade-2a4e-4401-9390-b7a322aa40e6)
+
+![image](https://github.com/toniacprado/Dio-Desafio-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/105946569/409557b8-6dda-44e4-9dbe-10aeee11e652)
+
+---
+Nota: As imagens usados neste desafio foram criadas por IA no gerador de imagens do Bing. (mulher e criança, homem de óculus, homem de máscara).
