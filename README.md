@@ -66,3 +66,13 @@ Então uma sequencia de passos é necessária:
 
 ---
 Nota: As imagens usados neste desafio foram criadas por IA no gerador de imagens do Bing. (mulher e criança, homem de óculus, homem de máscara).
+
+---
+
+## Considerações Finais
+O exercício se restrigiu a experimentar o serviço através da interface do portal do Azure Vision. Não foram exercitados os acessos através de outros aplicativos ou ferramentas usando apis e/ou o json disponível na plataforma para testes.
+
+Aos que forem executar testes similares vale sempre destacar a boa prática de desalocar os recursos depois do uso nos testes, evitando assim cobranças desnecessários.
+Acrescento aqui o link para a calculadora de preços Preços do IA do Azure Pesquisa Visual
+
+https://azure.microsoft.com/pt-br/pricing/details/cognitive-services/computer-vision/
