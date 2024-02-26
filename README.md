@@ -29,3 +29,11 @@ Então uma sequencia de passos é necessária:
 3o. Criar um recurso "Azure AI services" dentro de um Grupo de Recursos
 
 4o. Acessar o Vision Studio no link https://portal.vision.cognitive.azure.com/
+
+### Como criar e acessar a ferramenta está descrito nos links oficiais abaixo:
+
+[Detect faces in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html)
+
+[Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
+
+[Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
